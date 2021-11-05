@@ -11,7 +11,7 @@ status-website:
   theme: dark
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /status-monitor
+  cname: status.slugsoc.co.uk
   logoUrl: https://slugsoc.co.uk/wp-content/uploads/website-header.png
   name: SLUGSoc Remote Status Monitor
   introTitle: "The SLUGSoc Remote Status Monitor site is the open-source and powered entirely by **Upptime** with GitHub."
