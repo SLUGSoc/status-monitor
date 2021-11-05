@@ -9,6 +9,7 @@ sites:
 
 status-website:
   theme: dark
+  favicon: https://slugsoc.co.uk/wp-content/uploads/slugslogotransparent-e1475094108816.png
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.slugsoc.co.uk
