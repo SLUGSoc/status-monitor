@@ -4,8 +4,8 @@
     "url": "https://slugsoc.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/slugsoc.co.uk.ico",
     "slug": "slug-soc-co-uk",
-    "status": "up",
-    "uptime": "94.88%",
+    "status": "down",
+    "uptime": "94.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
@@ -16,6 +16,7 @@
     "timeMonth": 636,
     "timeYear": 575,
     "dailyMinutesDown": {
+      "2023-01-11": 0,
       "2022-12-20": 17,
       "2022-12-14": 29,
       "2022-12-09": 896,
