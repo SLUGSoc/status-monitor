@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/slugsoc.co.uk.ico",
     "slug": "slug-soc-co-uk",
     "status": "up",
-    "uptime": "31.59%",
+    "uptime": "31.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.76%",
     "uptimeMonth": "99.71%",
-    "uptimeYear": "15.62%",
-    "time": 12140,
-    "timeDay": 200,
-    "timeWeek": 190,
-    "timeMonth": 222,
-    "timeYear": 12140,
+    "uptimeYear": "15.89%",
+    "time": 12069,
+    "timeDay": 332,
+    "timeWeek": 198,
+    "timeMonth": 220,
+    "timeYear": 12069,
     "dailyMinutesDown": {
       "2025-11-18": 125,
       "2025-09-24": 1429,
@@ -322,8 +322,7 @@
       "2024-11-26": 1440,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
-      "2024-11-23": 1440,
-      "2024-11-22": 1440
+      "2024-11-23": 1440
     }
   }
 ]
