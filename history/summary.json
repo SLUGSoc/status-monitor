@@ -6,16 +6,18 @@
     "slug": "slug-soc-co-uk",
     "status": "down",
     "uptime": "38.19%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "74.48%",
+    "uptimeWeek": "96.35%",
+    "uptimeMonth": "99.16%",
     "uptimeYear": "58.84%",
-    "time": 6306,
-    "timeDay": 260,
-    "timeWeek": 259,
-    "timeMonth": 252,
-    "timeYear": 5883,
+    "time": 6287,
+    "timeDay": 149,
+    "timeWeek": 240,
+    "timeMonth": 247,
+    "timeYear": 5865,
     "dailyMinutesDown": {
+      "2026-04-28": 217,
+      "2026-04-27": 150,
       "2026-02-24": 61,
       "2025-11-18": 125,
       "2025-09-24": 1429,
@@ -166,8 +168,7 @@
       "2025-05-02": 1440,
       "2025-05-01": 1440,
       "2025-04-30": 1440,
-      "2025-04-29": 1440,
-      "2025-04-28": 1440
+      "2025-04-29": 1440
     }
   }
 ]
